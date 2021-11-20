@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Expenso</string>
+    <array name="transactionType">
+        <item>Transaction Type</item>
+        <item>Income</item>
+        <item>Expense</item>
+    </array>
+ </resources>
